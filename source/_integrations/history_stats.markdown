@@ -105,7 +105,7 @@ As `start` and `end` variables can be either datetimes or timestamps, you can co
 The duration variable is used when the time period is fixed. Different syntaxes for the duration are supported, as shown below.
 
 ```yaml
-# 6 hours
+# 6 minutes
 duration: 06:00
 ```
 
